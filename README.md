@@ -1,2 +1,2 @@
 # hbeita.github.io
-Persona info page
+Personal page, projects, tutorials and so on
